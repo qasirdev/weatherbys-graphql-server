@@ -8,7 +8,7 @@ npm run seed
 npm run dev
 
 ### To open prisma studio
-npx studio prisma
+npx prisma studio
 
 npm i cookie-parser express-session passport
 npm i @types/cookie-parser @types/express-session @types/passport
@@ -20,6 +20,8 @@ nvm list
 nvm ls-remote
 nvm install 20.11.0
 nvm use 14.5.0
+
+https://jsonplaceholder.typicode.com/todos
 
 <!-- 
 ### Blog:
